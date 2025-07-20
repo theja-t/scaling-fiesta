@@ -1,5 +1,4 @@
-# scaling-fiesta
-# Social-Media-Sentiment-Analysis
+# Social-Media-Analysis
 
 Here's a basic Social Media Sentiment Analysis for Brands project using Python. This project typically involves collecting tweets, cleaning the data, analyzing sentiment using libraries like TextBlob or VADER, and visualizing the results.
 
